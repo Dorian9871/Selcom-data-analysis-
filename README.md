@@ -50,3 +50,8 @@ python dashboard.py
 
 The dashboard will start locally. Open the URL shown in the terminal (typically http://127.0.0.1:8050) in your web browser.
 
+License
+Dataset: Large Retail Dataset for Exploratory Data Analysis (EDA)
+Source: https://www.kaggle.com/datasets/utkalk/large-retail-data-set-for-eda
+Reason for Selection: The dataset is publicly available, contains over one million transaction records, and provides sufficient information to analyze customer purchasing behavior and generate business insights. Valid under no copyright.
+
