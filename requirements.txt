@@ -6,3 +6,4 @@ dash>=3.0.0
 jupyterlab>=4.0.0
 notebook>=7.0.0
 ipykernel>=6.0.0
+Source of dataset: https://www.kaggle.com/datasets/utkalk/large-retail-data-set-for-eda
