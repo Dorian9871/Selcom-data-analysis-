@@ -17,8 +17,11 @@ Jupyter Notebook
 Dataset
 
 PROJECT STRUCTURE
+
 Customer_Behavior_Project/
+
 │
+
 ├── dashboard.py              # Interactive Dash dashboard
 
 ├── Selcom_Assessment.ipynb   # Jupyter Notebook analysis
