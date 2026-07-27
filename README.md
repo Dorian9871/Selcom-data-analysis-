@@ -6,14 +6,22 @@ This project analyzes retail customer transaction data to identify strategic are
 The project includes data cleaning, exploratory data analysis, business insights, and an interactive dashboard built using Plotly Dash.
 
 
-DEPENDENIES 
+DEPENDENIES
+
 Python 3
+
 Pandas
+
 NumPy
+
 Plotly Express
+
 Dash
+
 Matplotlib
+
 Jupyter Notebook
+
 Dataset
 
 PROJECT STRUCTURE
