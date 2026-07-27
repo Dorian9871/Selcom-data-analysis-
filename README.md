@@ -20,9 +20,13 @@ PROJECT STRUCTURE
 Customer_Behavior_Project/
 │
 ├── dashboard.py              # Interactive Dash dashboard
+
 ├── Selcom_Assessment.ipynb   # Jupyter Notebook analysis
+
 ├── README.md                 # Project documentation
+
 └── requirements.txt          # Python dependencies
+
 └── brief report              # Report
 
 
@@ -52,6 +56,8 @@ The dashboard will start locally. Open the URL shown in the terminal (typically 
 
 License
 Dataset: Large Retail Dataset for Exploratory Data Analysis (EDA)
+
 Source: https://www.kaggle.com/datasets/utkalk/large-retail-data-set-for-eda
+
 Reason for Selection: The dataset is publicly available, contains over one million transaction records, and provides sufficient information to analyze customer purchasing behavior and generate business insights. Valid under no copyright.
 
