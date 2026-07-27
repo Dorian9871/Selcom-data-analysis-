@@ -20,15 +20,15 @@ PROJECT STRUCTURE
 Customer_Behavior_Project/
 │
 ├── dashboard.py              # Interactive Dash dashboard
-├── retail_data.csv           # Dataset
-├── analysis.ipynb            # Jupyter Notebook analysis
+├── Selcom_Assessment.ipynb   # Jupyter Notebook analysis
 ├── README.md                 # Project documentation
 └── requirements.txt          # Python dependencies
+└── brief report              # Report
 
 
 RUNNING THE PROJECT
 1. Clone the repository
-git clone <repository-url>
+git clone <(https://github.com/Dorian9871/Selcom-data-analysis-)>
 
 2. Navigate to the project folder
 cd Customer_Behavior_Project
